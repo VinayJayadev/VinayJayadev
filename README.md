@@ -6,10 +6,6 @@
 </p> 
 
 
-<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alwin</h1>
-<h3 align="center">I'm a passionate Information Security Researcher from India 🇮🇳.</h3> -->
-
-
 ## 🙋‍♂️ About Me
 
 - 👨‍🎓 I'm a Master's student in **Artificial Intelligence.** 
