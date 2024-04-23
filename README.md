@@ -10,8 +10,6 @@
 
 - 👨‍🎓 I'm a Master's student in **Artificial Intelligence.** 
 
-- I’m currently employed as a Working Student in **ML Engineering**
-
 - 💬 How to reach me **vinayjayadev96@gmail.com**
 
 ## 🚀 Languages and Technologies:
