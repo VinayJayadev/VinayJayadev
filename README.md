@@ -1,7 +1,6 @@
 <p align="center">
-<!-- <a href="#"><img src="https://github.com/nullpwn/nullpwn/blob/main/code.gif" height="280px"/></a> -->
  <a href="https://www.linkedin.com/in/vinay-jayadev96/">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&lines=Hi%2C+I%27m+Vinay+Jayadev">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=%2339FF14&center=true&lines=Hi%2C+I%27m+Vinay+Jayadev">
   </a> 
 </p> 
 
