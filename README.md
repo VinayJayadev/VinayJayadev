@@ -1,13 +1,13 @@
 <p align="center">
  <a href="https://www.linkedin.com/in/vinay-jayadev96/">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=%2339FF14&center=true&lines=Hi%2C+I%27m+Vinay+Jayadev">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&lines=Hi%2C+I%27m+Vinay+Jayadev">
   </a> 
 </p> 
 
 
 ## 🙋‍♂️ About Me
 
-- 👨‍🎓 I'm a Master's student in **Artificial Intelligence.**
+- I'm a Master's student in **Artificial Intelligence.**
 - Experienced in ML, Data Science and Data Engineering
 
 - 💬 How to reach me **vinayjayadev96@gmail.com**
@@ -26,7 +26,6 @@
  <a href="https://www.kera.io/" target="_blank"><img src="https://keras.io/img/logo.png" width="70" height="50"></a>
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
 <p align="center">
