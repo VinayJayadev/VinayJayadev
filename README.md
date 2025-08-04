@@ -64,4 +64,4 @@
 <a href="https://github.com/VinayJayadev">
     <img src="https://komarev.com/ghpvc/?username=VinayJayadev&color=blueviolet">
 </a>
-<a href="https://github.com/VinayJayadev?tab=followers"><img src="https://img.shields.io/github/followers/nullpwn?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/VinayJayadev?tab=followers"><img src="https://img.shields.io/github/followers/VinayJayadev?label=Followers&style=social" alt="GitHub Badge"></a>
