@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- I'm a Master's student in **Artificial Intelligence.**
+- Master's graduate in **Artificial Intelligence.**
 - Experienced in ML, Data Science and Data Engineering
 
 - 💬 How to reach me **vinayjayadev96@gmail.com**
