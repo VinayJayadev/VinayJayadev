@@ -30,7 +30,7 @@
 
 <p align="center">
     <a href="https://github.com/VinayJayadev">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vinay's streak" src="https://github-readme-streak-stats.herokuapp.com?user=VinayJayadev&theme=rising-sun&v=2"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vinay's streak" src="https://streak-stats.demolab.com?user=VinayJayadev&theme=rising-sun"/>
     </a>
 </p>
 
